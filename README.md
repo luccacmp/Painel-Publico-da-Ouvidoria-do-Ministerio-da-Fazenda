@@ -1,4 +1,4 @@
-# Projeto de Dashboard em Power BI
+# Projeto Público da Ouvidoria do Ministério da Fazenda
 
 Este repositório apresenta um dashboard desenvolvido em **Power BI**, com foco em visualização de dados e acompanhamento de indicadores.
 
