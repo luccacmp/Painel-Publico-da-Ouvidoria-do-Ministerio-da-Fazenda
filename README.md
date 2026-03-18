@@ -1,6 +1,6 @@
 # Projeto Público da Ouvidoria do Ministério da Fazenda
 
-Este repositório apresenta um dashboard desenvolvido em **Power BI**, com foco em visualização de dados e acompanhamento de indicadores.
+Este repositório disponibiliza um dashboard desenvolvido em Power BI para visualização e acompanhamento de indicadores da Ouvidoria do Ministério da Fazenda, reunindo informações de forma interativa, organizada e acessível.
 
 ## Acesso ao painel
 [Acessar painel público](https://app.powerbi.com/view?r=eyJrIjoiOWNmZjE0Y2EtM2RjOS00YWIxLWJmNmEtNTNlY2EyOTk3ZDVjIiwidCI6IjQ1NjIxM2NmLTcwNzMtNDdjNi1iZjQ5LTQxYjY1NGFkNDQ5YiJ9)
