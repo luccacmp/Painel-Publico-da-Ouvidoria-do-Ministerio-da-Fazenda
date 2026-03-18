@@ -1,9 +1,9 @@
 # Projeto Público da Ouvidoria do Ministério da Fazenda
 
-Este repositório apresenta um dashboard desenvolvido em Power BI para apoiar a gestão operacional da Ouvidoria do Ministério da Fazenda. A solução integra dados de demandas, respondidas, em andamento e atrasadas, oferecendo visualizações interativas que permitem acompanhamento eficiente de indicadores como volume por área, tempo de resposta e tipos de demanda. O painel foi desenvolvido com foco em transparência e facilita a análise de desempenho operacional. de desempenho da Ouvidoria.
+Dashboard desenvolvido em Power BI que centraliza indicadores operacionais da Ouvidoria do Ministério da Fazenda, permitindo acompanhamento de demandas por área, tempo de resposta, tipo de demanda e status de atendimento (respondidas, em andamento ou atrasadas).
 
 ## Desafio Resolvido
-Desenvolver uma solução que permitisse acompanhar os indicadores operacionais da Ouvidoria com atualizações diárias, como número de demandas por área, tempo médio de resposta, tipo de demanda e status de atendimento (respondidas, em andamento ou atrasadas). O painel centraliza essas informações de forma interativa, facilitando análises rápidas e a identificação de oportunidades de melhoria nos processos.
+Desenvolver uma solução que permitisse acompanhar de forma consolidada e com atualizações diárias os indicadores operacionais da Ouvidoria do Ministério da Fazenda. O desafio envolvia integrar dados de demandas em diferentes status (respondidas, em andamento ou atrasadas), número de demandas por área, tempo médio de resposta e tipo de demanda, oferecendo visualizações interativas e acessíveis. O painel centraliza essas informações em um único ponto de consulta, facilitando análises rápidas, identificação de gargalos operacionais e oportunidades de melhoria nos processos da Ouvidoria.
 
 ## Tecnologias utilizadas
 - Power BI - Desenvolvimento e publicação do dashboard
